@@ -1,0 +1,2 @@
+# FHCoin
+Feijia Health Coin
